@@ -1,3 +1,2 @@
-# project-1--Amazon-clone
-Amazon-Inspired E-Commerce Website Technologies: HTML, CSS 
+# project-1--Amazon-clone 
 Developed a responsive Amazon-inspired e-commerce website using HTML and CSS. 
